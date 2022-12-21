@@ -1,0 +1,65 @@
+#section1 {
+    background: linear-gradient(rgb(105, 11, 193) 0%, rgb(40, 109, 214) 100%);
+    width: 100%;
+}
+
+#Menus {
+    position: fixed;
+    top: 10px;
+    right: 40px;
+    list-style: none;
+    z-index: 10;
+    font-family: 'La Belle Aurore', cursive;
+
+
+}
+
+.link {
+    float: left;
+    padding-right: 10px;
+    border-style: groove;
+    background-color: rgb(14, 214, 221);
+    cursor: pointer;
+
+}
+.link:hover{
+font-size: x-large;
+}
+
+
+body {
+    text-align: center;
+    background-color:black;
+}
+
+#section1 img{
+    border-radius: 50%;
+    height: 10cm;
+}
+
+#inicial {
+
+    font-size: 10mm;
+    font-style: italic;
+    font-family: 'La Belle Aurore', cursive;
+
+}
+
+section {
+    background-color: black;
+    color: whitesmoke;
+    font-size: xx-large;
+    padding: 0px;
+}
+
+.linha {
+    background-color: white;
+    height: 8px;
+    width: 100%;
+}
+h2{
+color:azure;
+}
+html{
+    scroll-behavior: smooth;
+}
